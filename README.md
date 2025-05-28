@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hello! I'm **Anuraag Venkat**
+🎓 I’m a senior at Elon University majoring in **Computer Science**
+🧠 Currently focused on:  
+  - Learning TypeScript, C++, and machine learning techniques  
 
+🛠️ Skills & Tools:  
+  `Python`, `C++`, `TypeScript`, `HTML`, `CSS`, `Git`, `Pandas`, `Scikit-learn`, `Pytorch`
+
+🏋️‍♂️ Hobbies: Fitness, Meditation, Video Games
+💡 Goals: Self-improvement, career exploration, staying consistent  
+
+📬 Reach out: [anuraagvenkat02@gmail.com](mailto:anuraagvenkat02@gmail.com)
 <!--
 **AnuVen/anuven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
