@@ -2,17 +2,30 @@
 🎓 I've just graduated from Elon University with a Bacheler of Science in **Computer Science**
 
 🧠 Currently focused on:  
-  - Learning TypeScript, C++, and machine learning techniques  
+  - Learning TypeScript, C++, and machine learning techniques
+  - Mastering Prompt Engineering, making sure I'm ready for the future  
 
 🛠️ Skills & Tools:  
-  `Python`, `C++`, `TypeScript`, `HTML`, `CSS`, `Git`, `Pandas`, `Scikit-learn`, `Pytorch`
+  `Python`,  `Java`, `C`, `C++`, 
+  `TypeScript`, `HTML`, `CSS`, `Git`, 
+  `Pandas`, `Scikit-learn`, `Pytorch`
 
-🏋️‍♂️ Hobbies: Fitness, Meditation, Video Games
+🏋️‍♂️ Hobbies: Fitness, Meditation, Video Games, Board Games
 
 💡 Goals: Self-improvement, career exploration, staying consistent  
 
 📬 Reach out: [anuraagvenkat02@gmail.com](mailto:anuraagvenkat02@gmail.com)
+
+
+![Anuraag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraagvenkat&show_icons=true&theme=dark)
+
+
 <!--
+
+
+
+
+
 **AnuVen/anuven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
