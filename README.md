@@ -3,7 +3,7 @@
 
 🧠 Currently focused on:  
   - Learning TypeScript, C++, and machine learning techniques
-  - Mastering Prompt Engineering, making sure I'm ready for the future
+  - Mastering Prompt Engineering, utilizing AI whilst not being completely reliant, etc
 
 
 🛠️ Skills & Tools:  
