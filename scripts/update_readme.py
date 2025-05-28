@@ -3,19 +3,27 @@ import datetime
 import random
 
 QUOTES = [
-    "Discipline is choosing between what you want now and what you want most.",
-    "The man who moves a mountain begins by carrying away small stones.",
-    "You won’t always be motivated. You must learn to be disciplined.",
-    "You are not behind. You are exactly where you need to be.",
-    "Do it tired. Do it imperfect. Just do it.",
-    "Every day is a chance to get 1% better.",
+    "Discipline is knowing you could procrastinate — and doing it anyway, just more efficiently.",
+    "You don’t need to be perfect. Just be better than yesterday’s version that binge-watched YouTube.",
+    "Success is mostly just showing up... and occasionally reading the instructions.",
+    "Every master was once a disaster. So technically, you're just in the pre-legend phase.",
+    "Progress is progress, even if it’s measured in microwaved leftovers and half-finished to-do lists.",
+    "Do it tired. Do it awkward. Do it imperfect. But yeah, do it.",
+    "Motivation is fleeting. Coffee is consistent. Choose wisely.",
+    "You’re not behind. You’re just fashionably late to your own greatness.",
+    "If you’re not failing occasionally, you’re probably just playing life on tutorial mode.",
+    "Self-doubt called. I told it you were busy being kinda awesome.",
+    "Today’s vibe: low energy, high potential.",
+    "Remember: Even your slowest progress still outruns anyone who didn’t start.",
+    "You don’t have to feel like doing it. You just have to do it anyway.",
+    "Being average at something consistently is still more powerful than being amazing once.",
+    "If you’ve made it this far, odds are you’ll survive the rest too.",
+    "Don't not..."
 ]
 
 REMINDERS = [
     "🧘 Did you meditate today?",
-    "🎤 Have you done your voice training?",
     "💪 Mini push-ups, squats, and sit-ups — checked off?",
-    "🎯 OSRS goal progress update: what’s the next milestone?",
 ]
 
 def get_quote():
