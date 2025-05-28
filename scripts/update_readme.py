@@ -39,8 +39,8 @@ def main():
 
     new_log = [
         "<!--DAILY-LOG-->\n",
-        f">_{quote}_\n\n",
-        #f"> 🔁 **Reminder**: {reminder}\n",
+        f">_{quote}_\n",
+        f">",
         f"> 📅 Last updated: `{now}`\n",
         "<!--END-LOG-->\n"
     ]
