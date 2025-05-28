@@ -37,18 +37,32 @@ def main():
     quote = get_quote()
     reminder = get_reminder()
 
+    new_log = [
+        "<!--DAILY-LOG-->\n",
+        f"> 🧠 **Quote**: _{quote}_\n",
+        f"> 🔁 **Reminder**: {reminder}\n",
+        f"> 📅 Last updated: `{now}`\n",
+        "<!--END-LOG-->\n"
+    ]
+
     with open("README.md", "r", encoding="utf-8") as file:
         lines = file.readlines()
 
-    with open("README.md", "w", encoding="utf-8") as file:
-        for line in lines:
-            if line.startswith("<!--DAILY-LOG-->"):
-                file.write("<!--DAILY-LOG-->\n")
-                file.write(f"> 🧠 **Quote**: _{quote}_\n")
-                file.write(f"> 🔁 **Reminder**: {reminder}\n")
-                file.write(f"> 📅 Last updated: `{now}`\n\n")
-            else:
-                file.write(line)
+    start_index = None
+    end_index = None
+
+    for i, line in enumerate(lines):
+        if line.strip() == "<!--DAILY-LOG-->":
+            start_index = i
+        elif line.strip() == "<!--END-LOG-->":
+            end_index = i
+
+    if start_index is not None and end_index is not None and end_index > start_index:
+        updated_lines = lines[:start_index] + new_log + lines[end_index+1:]
+        with open("README.md", "w", encoding="utf-8") as file:
+            file.writelines(updated_lines)
+    else:
+        print("Markers not found or improperly ordered.")
 
 if __name__ == "__main__":
     main()
