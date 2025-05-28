@@ -3,16 +3,20 @@
 
 🧠 Currently focused on:  
   - Learning TypeScript, C++, and machine learning techniques
-  - Mastering Prompt Engineering, making sure I'm ready for the future  
+  - Mastering Prompt Engineering, making sure I'm ready for the future
+
 
 🛠️ Skills & Tools:  
   `Python`,  `Java`, `C`, `C++`, 
   `TypeScript`, `HTML`, `CSS`, `Git`, 
   `Pandas`, `Scikit-learn`, `Pytorch`
 
+
 🏋️‍♂️ Hobbies: Fitness, Meditation, Video Games, Board Games
 
+
 💡 Goals: Self-improvement, career exploration, staying consistent  
+
 
 📬 Reach out: [anuraagvenkat02@gmail.com](mailto:anuraagvenkat02@gmail.com)
 
