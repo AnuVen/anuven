@@ -17,7 +17,7 @@
 📬 Reach out: [anuraagvenkat02@gmail.com](mailto:anuraagvenkat02@gmail.com)
 
 
-![Anuraag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraagvenkat&show_icons=true&theme=dark)
+![Anuraag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuven&show_icons=true&theme=dark)
 
 
 <!--
