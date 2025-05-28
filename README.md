@@ -16,7 +16,9 @@
 
 📬 Reach out: [anuraagvenkat02@gmail.com](mailto:anuraagvenkat02@gmail.com)
 
-> 📌 Featured:[Vardorvis Health Tracker](https://github.com/anuven/vardorvis-health-tracker) – OSRS boss health monitoring tool in Java
+
+📌 Featured Projects:
+- [Vardorvis Health Tracker](https://github.com/anuven/vardorvis-health-tracker) – OSRS boss health monitoring tool in Java
 
 
 
