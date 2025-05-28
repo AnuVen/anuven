@@ -22,8 +22,8 @@
 
 
 📌 Featured Projects:
-- [Vardorvis Health Tracker](https://github.com/anuven/vardorvis-health-tracker) – OSRS boss health monitoring tool in Java
-- [Tic Tac Toe vs AI](https://github.com/AnuVen/tictactoe-minimax) - Tic Tac Toe game vs AI utilizing Minimax algorithm
+- [Vardorvis Health Tracker](https://github.com/anuven/vardorvis-health-tracker) – OSRS boss health monitoring tool in Java (2023)
+- [Tic Tac Toe vs AI](https://github.com/AnuVen/tictactoe-minimax) - Tic Tac Toe game vs AI utilizing Minimax algorithm (2024)
 
 
 
