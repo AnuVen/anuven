@@ -31,8 +31,8 @@
 
 
 <!--DAILY-LOG-->
->_Self-doubt called. I told it you were busy being kinda awesome._
-> 📅 Last updated: `2025-05-29 12:21`
+>_You don’t need to be perfect. Just be better than yesterday’s version that binge-watched YouTube._
+> 📅 Last updated: `2025-05-30 12:21`
 <!--END-LOG-->
 
 
