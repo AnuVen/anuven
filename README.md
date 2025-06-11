@@ -1,4 +1,4 @@
-## Hello! I'm **Anuraag Venkat**
+## Hello! I'm **Anuraag**
 🎓 I've just graduated from Elon University with a Bacheler of Science in **Computer Science**
 
 🧠 Currently focused on:  
