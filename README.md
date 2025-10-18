@@ -1,23 +1,6 @@
 ## Hello! I'm **Anuraag**
 🎓 I've just graduated from Elon University with a Bacheler of Science in **Computer Science**
 
-🧠 Currently focused on:  
-  - Learning TypeScript, C++, and machine learning techniques
-  - Mastering Prompt Engineering, utilizing AI whilst not being completely reliant, etc
-
-
-🛠️ Skills & Tools:  
-  `Python`,  `Java`, `C`, `C++`, 
-  `TypeScript`, `HTML`, `CSS`, `Git`, 
-  `Pandas`, `Scikit-learn`, `Pytorch`
-
-
-🏋️‍♂️ Hobbies: Fitness, Meditation, Video Games, Board Games
-
-
-💡 Goals: Self-improvement, career exploration, staying consistent  
-
-
 📬 Reach out: [anuraagvenkat02@gmail.com](mailto:anuraagvenkat02@gmail.com)
 
 
@@ -42,6 +25,24 @@
 
 
 **AnuVen/anuven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🧠 Currently focused on:  
+  - Learning TypeScript, C++, and machine learning techniques
+  - Mastering Prompt Engineering, utilizing AI whilst not being completely reliant, etc
+
+  🛠️ Skills & Tools:  
+  `Python`,  `Java`, `C`, `C++`, 
+  `TypeScript`, `HTML`, `CSS`, `Git`, 
+  `Pandas`, `Scikit-learn`, `Pytorch`
+
+
+🏋️‍♂️ Hobbies: Fitness, Meditation, Video Games, Board Games
+
+
+💡 Goals: Self-improvement, career exploration, staying consistent  
+
+
+
 
 Here are some ideas to get you started:
 
